@@ -1339,7 +1339,6 @@ local function VRMHUX_fake_script() -- Chat.ChatSpy
 		end
 	end)
 end
-coroutine.wrap(VRMHUX_fake_script)()
 local function PLWUQF_fake_script() -- Chat.Chat 
 	local script = Instance.new('LocalScript', Chat)
 
